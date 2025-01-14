@@ -25,3 +25,7 @@ html {
 .car_img {
   @apply w-full h-full object-cover;
 }
+
+.car_details {
+  @apply absolute top-[20%] left-[50%] text-center;
+}

@@ -565,3 +565,10 @@ html {
   -o-object-fit: cover;
      object-fit: cover;
 }
+
+.car_details{
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  text-align: center;
+}
