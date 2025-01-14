@@ -39,5 +39,18 @@ html {
 }
 
 .tag_line {
-  @apply text-2xl text-[#4c4d51] mt-[1.6rem];
+  @apply text-2xl text-[#4c4d51] mt-[1.2rem];
+}
+
+.car_buttons {
+  @apply absolute top-[85%] left-[50%];
+}
+
+.btn {
+  @apply text-2xl text-white bg-[#171a20] font-medium uppercase my-2 py-[0.4rem] px-[2.4rem] rounded-[3.2rem]
+  w-[25.5rem] h-16 bg-opacity-80 hover:bg-opacity-100 transition-all duration-300;
+}
+
+.inventory {
+  @apply text-[#393c41] bg-white bg-opacity-60 ml-8;
 }
