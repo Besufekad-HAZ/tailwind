@@ -29,3 +29,15 @@ html {
 .car_details {
   @apply absolute top-[20%] left-[50%] text-center;
 }
+
+.transform_50 {
+  transform: translate(-50%, -50%);
+}
+
+.model_name {
+  @apply text-[4rem] font-semibold text-[#393c41];
+}
+
+.tag_line {
+  @apply text-2xl text-[#4c4d51] mt-[1.6rem];
+}

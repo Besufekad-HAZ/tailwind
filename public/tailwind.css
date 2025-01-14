@@ -572,3 +572,22 @@ html {
   left: 50%;
   text-align: center;
 }
+
+.transform_50 {
+  transform: translate(-50%, -50%);
+}
+
+.model_name{
+  font-size: 4rem;
+  font-weight: 600;
+  --tw-text-opacity: 1;
+  color: rgb(57 60 65 / var(--tw-text-opacity, 1));
+}
+
+.tag_line{
+  margin-top: 1.6rem;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  --tw-text-opacity: 1;
+  color: rgb(76 77 81 / var(--tw-text-opacity, 1));
+}
