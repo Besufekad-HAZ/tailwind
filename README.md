@@ -12,8 +12,7 @@ This project is a responsive website showcasing Tesla's range of cars and solar 
 
 ## Screenshots
 
-![Screenshot](![image](https://github.com/user-attachments/assets/69ee6ceb-5169-4075-b7bd-e88a460bee23)
-)
+![Screenshot](https://private-user-images.githubusercontent.com/23375153/403374900-39a19af2-dc1d-46e0-b1a6-00303cd05b23.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY5MzcyMDAsIm5iZiI6MTczNjkzNjkwMCwicGF0aCI6Ii8yMzM3NTE1My80MDMzNzQ5MDAtMzlhMTlhZjItZGMxZC00NmUwLWIxYTYtMDAzMDNjZDA1YjIzLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTE1VDEwMjgyMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTRiZGFhYjMyMjczOWFiMTBlMzVlMTM0MDMzOTc1OTYzODExY2Q4NWEwZThlMmNkZjkzYjIzZjkxNDBlYjhlNDcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Wen7RzR-By_ge-lfGaUzLSTirXIbqvRLbdcswCAiPzw)
 
 ## Installation
 
@@ -41,7 +40,7 @@ To make changes to the project, open the files in your preferred code editor. Th
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Besufekad-HAZ/tailwind/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
