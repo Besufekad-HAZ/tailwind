@@ -58,3 +58,7 @@ html {
 .down_svg {
   @apply w-full h-20 mx-auto absolute top-[93%] animate-bounce;
 }
+
+.up_svg {
+  @apply w-full h-20 mx-auto absolute bottom-[85%] animate-bounce;
+}
