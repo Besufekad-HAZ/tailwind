@@ -12,7 +12,8 @@ This project is a responsive website showcasing Tesla's range of cars and solar 
 
 ## Screenshots
 
-![Screenshot](./path/to/your/screenshot.png)
+![Screenshot](![image](https://github.com/user-attachments/assets/69ee6ceb-5169-4075-b7bd-e88a460bee23)
+)
 
 ## Installation
 
